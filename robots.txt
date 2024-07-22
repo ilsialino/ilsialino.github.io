@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ilsialino.github.io/sitemap
+Sitemap: https://ilsialino.github.io/app/sitemap
+Sitemap: https://ilsialino.github.io/assets/sitemap
+Sitemap: https://ilsialino.github.io/css/sitemap
+Sitemap: https://ilsialino.github.io/includes/sitemap
+Sitemap: https://ilsialino.github.io/item/sitemap
+Sitemap: https://ilsialino.github.io/src/sitemap
